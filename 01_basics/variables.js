@@ -2,7 +2,7 @@
 
 const accountid=14453  //once the value is assigned we cant change that value
 let accountEmail="vinayak@gmail.com"
-var accountPassword="12345"
+var accountPassword="123456"
 accountcity="dharwad"
 
 console.log(accountid);
